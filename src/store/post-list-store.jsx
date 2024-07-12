@@ -65,7 +65,7 @@ const DEFAULT_POST_LIST = [
   },
   {
     id: "2",
-    title: "Paas hogaya",
+    title: "Graduation Completed",
     body: "Finaly passed",
     reactions: 15,
     userId: "user-12",
